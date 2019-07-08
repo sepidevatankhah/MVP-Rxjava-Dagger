@@ -1,4 +1,4 @@
-# KotlinMVPRxjavaDagger
+# MVPRxjavaDagger
 This simple example application implements clean MVP Architecture with RxJava + Dagger2 + Retrofit2 + using Kotlin and also Glide, constraint-layout API(This application will cover two design patterns: MVP and Dependency Injection throw clean architecture)
 
 Library reference resources:
